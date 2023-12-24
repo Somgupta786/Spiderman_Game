@@ -1,0 +1,12 @@
+
+/*Positioning the Canvas*/
+
+body {
+    background-color: #000000;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
